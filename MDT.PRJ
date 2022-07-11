@@ -1,0 +1,4 @@
+filtro.c   (menufil.h, stdio.h)
+menufil.c  (errno.h, menufil.h)
+mdt.c      (stdio.h, menufil.h, tabela.h)
+
